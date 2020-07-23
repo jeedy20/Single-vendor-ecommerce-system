@@ -49,7 +49,7 @@ UI of the admin and app
 # username: admin123@gmail.com
 # password: 123456
 
-For Demo and Price Contact me 
+# For Demo and Price Contact me 
 # Whatsapp number: +2348105387297
 # Email: [preciousoliver03@gmail.com]
 
