@@ -16,7 +16,7 @@ A fully Functional E-commerce app built with Flutter and firebase. the admin pan
 * Product Review
 * Simple UI design and user friendly. etc
 
-UI of the admin and app
+
 ![WhatsApp Image 2020-07-22 at 9 33 15 PM (7)](https://user-images.githubusercontent.com/43072734/88264045-03a42700-ccc3-11ea-85ca-ec6993d9c6cd.jpeg)
 ![WhatsApp Image 2020-07-22 at 9 33 15 PM (8)](https://user-images.githubusercontent.com/43072734/88264073-11f24300-ccc3-11ea-8321-caab27b44723.jpeg)
 ![WhatsApp Image 2020-07-22 at 9 33 15 PM (9)](https://user-images.githubusercontent.com/43072734/88264087-19195100-ccc3-11ea-8d70-f81412a34650.jpeg)
@@ -48,8 +48,8 @@ UI of the admin and app
 
 # username: admin123@gmail.com
 # password: 123456
-
-# For Demo and Price Contact me 
+#Demo: https://drive.google.com/file/d/1Tnw_pu14S2u0iIigyE0WSQHUR_c-GLpe/view?usp=sharing
+#  COntact me for Price
 # Whatsapp number: +2348105387297
 # Email: [preciousoliver03@gmail.com]
 
