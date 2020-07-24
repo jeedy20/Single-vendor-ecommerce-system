@@ -48,8 +48,9 @@ A fully Functional E-commerce app built with Flutter and firebase. the admin pan
 
 # username: admin123@gmail.com
 # password: 123456
-#Demo: https://drive.google.com/file/d/1Tnw_pu14S2u0iIigyE0WSQHUR_c-GLpe/view?usp=sharing
-#  COntact me for Price
+# Demo: https://drive.google.com/file/d/1Tnw_pu14S2u0iIigyE0WSQHUR_c-GLpe/view?usp=sharing
+# Contact me for support. To purchase the source code follow the link below.
+# https://www.piecex.com/source-code/Fully-Functional-E-commerce-App-and-Admin-Built-WIth-Flutter-and-Firebase-1736
 # Whatsapp number: +2348105387297
 # Email: [preciousoliver03@gmail.com]
 
