@@ -49,7 +49,7 @@ A fully Functional E-commerce app built with Flutter and firebase. the admin pan
 # username: admin123@gmail.com
 # password: 123456
 # Demo: https://drive.google.com/file/d/1Tnw_pu14S2u0iIigyE0WSQHUR_c-GLpe/view?usp=sharing
-# Contact me for support and source code purchase at 80usd.
+# Contact me for support and source code purchase at 99USD.
 
 # Whatsapp number: +2348105387297
 # Email: [preciousoliver03@gmail.com]
