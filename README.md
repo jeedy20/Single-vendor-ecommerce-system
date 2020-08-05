@@ -15,6 +15,7 @@ A fully Functional E-commerce app built with Flutter and firebase. the admin pan
 * Push Notification.
 * Product Review
 * Simple UI design and user friendly. etc
+NB: Admin is available in web and app versions.
 
 ![fgt](https://user-images.githubusercontent.com/43072734/88547697-fade8880-d015-11ea-9492-74144eb0b706.jpg)
 
@@ -26,7 +27,7 @@ A fully Functional E-commerce app built with Flutter and firebase. the admin pan
 # username: admin123@gmail.com
 # password: 123456
 # Demo: https://drive.google.com/file/d/1Tnw_pu14S2u0iIigyE0WSQHUR_c-GLpe/view?usp=sharing
-# Contact me for support and source code purchase at 99USD.
+# Contact me for support and source code purchase at 49USD.
 
 # Whatsapp number: +2348105387297
 # Email: [preciousoliver03@gmail.com]
