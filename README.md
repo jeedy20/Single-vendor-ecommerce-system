@@ -29,7 +29,8 @@ NB: Admin is available in web and app versions.
 # Demo: https://drive.google.com/file/d/1Tnw_pu14S2u0iIigyE0WSQHUR_c-GLpe/view?usp=sharing
 # Contact me for support and source code purchase at 49USD.
 
-# Whatsapp number: +2348105387297
+To purchase source code please follow the link below
+# https://www.sellmyapp.com/downloads/fully-functional-flutter-e-commerce-app-and-admin/
 # Email: [preciousoliver03@gmail.com]
 
 
