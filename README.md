@@ -1,4 +1,4 @@
-# E-commerce-app-and-admin-panel-made-with-flutter-and-firebase
+# Functional multi purpose flutter app and admin (Grocery, E-commerce, Food,Pharmacy etc).
 The app and admin panel are built with google fluutter app and flutter web respectively. The backend used is firebase.
 
 A fully Functional E-commerce app built with Flutter and firebase. the admin panel is built with Flutter web.
