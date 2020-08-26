@@ -22,11 +22,12 @@ NB: Admin is available in web and app versions.
 
 
 # Admin Panel url
-[https://olivette-bfa63.firebaseapp.com/]
-
+# https://olivette-bfa63.firebaseapp.com/
+# Admin App
+# https://drive.google.com/file/d/1rffITjJdGwY2x6r7LvSP6Fqdx6lMXgym/view?usp=sharing
 # username: admin123@gmail.com
 # password: 123456
-# Demo: https://drive.google.com/file/d/1Tnw_pu14S2u0iIigyE0WSQHUR_c-GLpe/view?usp=sharing
+# Demo:https://drive.google.com/file/d/1KnsrN7QUbhpQH5qiIqZUrYVQv9VuckMS/view?usp=sharing
 # Contact me for support and source code purchase at 49USD.
 
 To purchase source code please follow the link below
