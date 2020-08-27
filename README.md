@@ -34,6 +34,8 @@ To purchase source code please follow the link below
 # https://www.sellmyapp.com/downloads/fully-functional-flutter-e-commerce-app-and-admin/
 # Email: [preciousoliver03@gmail.com]
 
+NB: To test stripe payment system, use this code 4242 4242 4242 4242 as card number and enter a random number for cvv and expiry date.
+
 
 
 
