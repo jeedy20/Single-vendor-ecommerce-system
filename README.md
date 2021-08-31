@@ -30,8 +30,8 @@ NB: Admin is available in web and app versions.
 # Demo:https://drive.google.com/file/d/1KnsrN7QUbhpQH5qiIqZUrYVQv9VuckMS/view?usp=sharing
 # Contact me for support and source code purchase at 49USD.
 
-To purchase source code please follow the link below
-# https://www.sellmyapp.com/downloads/fully-functional-flutter-e-commerce-app-and-admin/
+To purchase source code please write us with the email below
+
 # Email: [preciousoliver03@gmail.com]
 
 NB: To test stripe payment system, use this code 4242 4242 4242 4242 as card number and enter a random number for cvv and expiry date.
