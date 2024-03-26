@@ -1,7 +1,8 @@
 <html>
    <body>
       <h2>Single vendor ecommerce system.</h2>
-      <p> This is a complete single vendor ecommerce system for large and small scale business owners
+      <p> This is a complete single vendor ecommerce system for large and small scale business owners and can be purchased
+         for educational purposes.
       <h2>App features</h2>
       <ul>
          <li> System contains a User app and web app, Rider app and Admin web app. </li>
@@ -25,22 +26,37 @@
       </ul>
       <p>
       <h1>
-         Gallery
+         Overview
       </h1>
-      <img src="https://i.ibb.co/qy78PGQ/1.png" alt="1" border="0">
-      <img src="https://i.ibb.co/ys0DyZB/2.png" alt="2" border="0">
+      <img src="https://i.ibb.co/Z6fV42H/sample-03.png" alt="sample-03" border="0">
+      <br>
+      <br>
+      <img src="https://i.ibb.co/SmCM0wD/sample2-02.png" alt="sample2-02" border="0">
+      <br>
+      <br>
+      <img src="https://i.ibb.co/qdrmF0g/sample-01.png" alt="sample-01" border="0">
+      <br>
+      <br>
+      <img src="https://i.ibb.co/yh6K0s4/sample-04.png" alt="sample-04" border="0">
+      <br>
+      <br>
+      <img src="https://i.ibb.co/cw1z4SN/sample-06.png" alt="sample-06" border="0">
+      <br>
+      <br>
+      <img src="https://i.ibb.co/rFbsncJ/sample-05.png" alt="sample-05" border="0">
       </p>
-      <p>
-         <img src="https://i.ibb.co/55xLGXm/3.png" alt="3" border="0">
-         <img src="https://i.ibb.co/1dXhZ2F/4.png" alt="4" border="0">
-         <img src="https://i.ibb.co/P6TZZXb/5.png" alt="5" border="0">
-      </p>
-      <h2>Top Features.</h2>
+      <h2>Key Features.</h2>
       <ul>
          <li> User web app. </li>
-         <!-- <li> Vendor can own multiple stores. </li> -->
          <li> Admin can create many categories/subcategories and collections as they want. </li>
-         <!-- <li> Vendor can select his personal list of delivery boys and also manage them. </li> -->
+         <li>Enable and Disable Delivery SYstem</li>
+         <li>
+            Bulk push notifications
+         </li>
+         <li>
+            Users and Rider report exported as a pdf
+         </li>
+         <li>Receipt printing</li>
          <li> Assign of delivery boy to an order. </li>
          <li> Return policy. </li>
          <li> Coupon system. </li>
@@ -51,17 +67,32 @@
          <li>Social media share</li>
          <li> etc. </li>
       </ul>
+      <h2>Requirements</h2>
+      <ul>
+         <li>Firebase Account</li>
+         <li>Flutter SDK</li>
+         <li>Stripe Account</li>
+         <li>
+            Paystack Account
+         </li>
+         <li>
+            Flutterwave Account
+         </li>
+         <li>
+            Node JS
+         </li>
+      </ul>
       <h2> Demo Creditials. </h2>
       <p>
          <a target="_blank" href="https://drive.google.com/file/d/1FqfDqKMSJcRASV0AiUZkEK770p24GMSS/view?usp=drive_link">
-         <img src="https://i.ibb.co/qmx27J0/3.png" alt="3" border="0">
+         <img src="https://i.ibb.co/sHb7h0n/3.png" alt="3" border="0">
          </a>
       </p>
       <br>
       <br>
       <p>
          <a target="_blank" href="https://drive.google.com/file/d/1BWFab1me0OG3TfY-WiITxeqoKP7EKfq8/view?usp=drive_link">
-         <img src="https://i.ibb.co/kQgBkfz/4.png" alt="4" border="0">
+         <img src="https://i.ibb.co/M9kKYv7/4.png" alt="4" border="0">
          </a>
       </p>
       <p style="font-weight: bold"> User name: olivetterider123@gmail.com </p>
@@ -70,7 +101,7 @@
       <br>
       <p>
          <a target="_blank" href="https://olivette-admin-new.web.app/">
-         <img src="https://i.ibb.co/MDtQW1Z/1.png" alt="1" border="0">
+         <img src="https://i.ibb.co/WFhBnf6/1.png" alt="1" border="0">
          </a>
       </p>
       <p style="font-weight: bold"> User name:admin123@gmail.com </p>
@@ -79,11 +110,15 @@
       <br>
       <p>
          <a target="_blank" href="https://olivette-store.web.app">
-         <img src="https://i.ibb.co/wrdQyGQ/2.png" alt="2" border="0">
+         <img src="https://i.ibb.co/3FdJ8KP/2.png" alt="2" border="0">
          </a>
       </p>
       <br>
       <br>
+      <a target="_blank"
+         href="https://codecanyon.net/item/multi-vendor-app-for-restaurant-pharmacy-grocery-it-etc/31781006">
+      <img src="https://i.ibb.co/59nPTjq/7.png" alt="7" border="0">
+      </a>
       < <br>
       <br>
       </p>
@@ -95,9 +130,6 @@
       <p> Card number: 4242 4242 4242 4242. cvv: Any. Exp:Any. </p>
       <h5> Flutterwave. </h5>
       <p> Card number: 5531 8866 5214 2950. cvv: 564. Exp: 09/32. Pin: 3310. OTP: 12345 </p>
-      <!-- <p> NB: To successfully test vendor and delivery boy without issues. Login with the with right Creditials. Eg.
-         Don't
-         use a delivery boy login details in a vendor app. Thanks </p> -->
       <hr>
       <h4>Change Log</h4>
       <h2>24th March, 2024</h2>
@@ -105,8 +137,6 @@
          <li>Updated to the latest flutter version</li>
          <li>A Whole new system and UI change</li>
       </ul>
-      <h2>
-         Interested in the purchase of the code please email us at preciousoliver03@gmail.com or whatsapp @ +2348105387397
-      </h2>
+      <li>Email Us @ preciousoliver03@gmail.com or whatsapp @ +2348105387397 if you are interested to purchase the code</li>
    </body>
 </html>
